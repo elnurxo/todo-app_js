@@ -1,0 +1,14 @@
+.todo-wrapper{
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.todo-wrapper input{
+    margin-right: 7px;
+}
+.add{
+    margin-right: 5px;
+}
+.update{
+    display: none;
+}
